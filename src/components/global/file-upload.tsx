@@ -45,7 +45,7 @@ function FileUpload({ apiEndpoint, onChange, value }: Props) {
               type="button"
               className='flex items-center gap-1'
             >
-              <X className="h-4 w-4 mt-1" />
+              <X className="h-4 w-4" />
               Remove Logo
             </Button>
           </div>
